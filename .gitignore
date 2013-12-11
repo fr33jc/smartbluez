@@ -1,0 +1,9 @@
+*.pyc
+activate-*
+.ropeproject/
+.idea/
+smartbluez.egg-info/
+.venv-*
+doc/_build/
+.coverage
+cover/
